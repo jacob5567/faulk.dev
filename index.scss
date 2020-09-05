@@ -1,15 +1,20 @@
 $font-stack: "Roboto",sans-serif;
+$color-background: #282c34;
+$color-light: #abb2bf;
 
 body {
     font-family: $font-stack;
     text-rendering: optimizeLegibility;
+    background-color: $color-background;
 }
 
 h1 {
+    color: $color-light;
     text-align: center;
 }
 
 h2 {
+    color: $color-light;
     text-align: center;
 }
 
