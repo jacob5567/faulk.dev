@@ -1,0 +1,37 @@
+body {
+  font-family: "Roboto", sans-serif;
+  text-rendering: optimizeLegibility;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+  text-align: center;
+}
+ul li {
+  display: inline-block;
+}
+ul li a {
+  color: white;
+  display: block;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  font-weight: bold;
+}
+ul li a:hover {
+  background-color: #111111;
+}
+
+/*# sourceMappingURL=index.css.map */
